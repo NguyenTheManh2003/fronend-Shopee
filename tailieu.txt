@@ -1,0 +1,5 @@
+.header__navbar-icon-link:nth-child(2) {
+    
+}/*lấy phần tử con thứ hai*/
+
+ overflow-y: auto;/*tao thanh scol ngang*/
